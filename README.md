@@ -16,4 +16,6 @@
   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
+  
+  ![Snake animation](https://github.com/kauamoreno/kauamoreno/blob/output/github-contribution-grid-snake.svg)
 
