@@ -3,18 +3,22 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaua.moreno2005@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauamoreno)
 
-<div align="center">
-  <a href="https://github.com/kauamoreno">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kauamoreno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamoreno&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kauamoreno&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="DGS1337 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamoreno&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
   
-  ##
-  <h3>Tecnologias que eu domino:</h3>
-  
-<div style="display: inline_block">
+##  
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,java,vscode,figma)](www.linkedin.com/in/kauamoreno)
+<div style="display: inline_block">
+  <h3>Tecnologias que eu domino:</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,git,java,eclipse,vscode,figma)](www.linkedin.com/in/kauamoreno)
+  <br><br>
+  
+  <h3>Tecnologias que eu estou estudando:</h3>
+  
+  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,flutter,androidstudio)](www.linkedin.com/in/kauamoreno)
   
 </div>
 
