@@ -18,7 +18,7 @@
   
   <h3>Tecnologias que eu estou estudando:</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,flutter,androidstudio,php)](https://www.linkedin.com/in/kauamoreno/)
+  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,flutter,androidstudio,php,typescript)](https://www.linkedin.com/in/kauamoreno/)
   
 </div>
 
