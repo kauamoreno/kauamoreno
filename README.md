@@ -13,12 +13,12 @@
 <div style="display: inline_block">
   <h3>Tecnologias que eu domino:</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,git,java,eclipse,vscode,figma)](https://www.linkedin.com/in/kauamoreno/)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,git,java,flutter,nodejs,eclipse,vscode,figma)](https://www.linkedin.com/in/kauamoreno/)
   <br><br>
   
   <h3>Tecnologias que eu estou estudando:</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,flutter,androidstudio,php,typescript)](https://www.linkedin.com/in/kauamoreno/)
+  [![My Skills](https://skillicons.dev/icons?i=react,androidstudio,php,typescript)](https://www.linkedin.com/in/kauamoreno/)
   
 </div>
 
