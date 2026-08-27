@@ -9,9 +9,9 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauamoreno/)
 [![website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://seusite.com](https://kauamoreno.dev/))
 
-<div align="center">  
+<div>  
   
-  ![GitHub Stats Card](https://ghstats.dev/api/card?username=kauamoreno&theme=tokyonight&border_radius=7.5&hide=hours%2Cstreak%2Ctrend%2Cweek%2Cavg)  
+  ![GitHub Stats Card](https://ghstats.dev/api/card?username=kauamoreno&theme=tokyonight&border_radius=7.5&size=compact&hide=hours%2Cstreak%2Ctrend%2Cweek%2Cavg%2Cgrade)
 
 </div>
 
@@ -34,7 +34,7 @@
   
 </div>
 
-<br><br>
+<br>
 
 ##
 
