@@ -2,24 +2,27 @@
 
 <p align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Web+and+App+Developer;Always+learning+new+things;Powered+by+curiosity&center=true&size=22&color=00bfbf" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Backend+Developer;Always+learning+new+things&center=true&size=22&color=00bfbf" />
 </p>
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmoreno.tech@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauamoreno/)
+[![website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://seusite.com](https://kauamoreno.dev/))
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kauamoreno&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="DGS1337 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamoreno&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
   
+  ![GitHub Stats Card](https://ghstats.dev/api/card?username=kauamoreno&theme=tokyonight&border_radius=7.5&hide=hours%2Cstreak%2Ctrend%2Cweek%2Cavg)  
+
+</div>
+
 
 <h2>🧠 About Me</h2>
 <p>
-  🔭 I’m currently working on improving my full stack skills<br>
-  🌱 Always exploring new tech and building cool projects<br>
-  🧩 Every bug is a puzzle waiting to be solved<br>
-  ⚡ Fun fact: I love exploring Linux distros
+  🎓 Information Systems student at the University of São Paulo (USP)                       <br>
+  💻 Backend Developer focused on REST APIs and software development                        <br>
+  🛠️ Experience with Node.js, Express, Java, Spring Boot, PostgreSQL, MongoDB and Docker    <br>
+  🚀 Interested in backend development, system architecture and learning new technologies   <br>
+  🐧 I enjoy working with Linux and exploring different technologies
 </p>
 
 #
@@ -27,10 +30,11 @@
 <div style="display: inline_block">
   <h3>Languages and Tools:</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,git,java,flutter,nodejs,eclipse,vscode,figma,react)](https://www.linkedin.com/in/kauamoreno/)
-  <br><br>
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,java,spring,postgres,mongodb,docker,git,github,linux,flutter,firebase,react)](https://www.linkedin.com/in/kauamoreno/)
   
 </div>
+
+<br><br>
 
 ##
 
